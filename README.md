@@ -1,4 +1,4 @@
-# Quantum-Comuting-QASM-Simulator
+# Quantum-Computing-QASM-Simulator
 A Typescript implementation of IBM's QISKIT Quantum Simulator
 Features:
 - MultiQubit States
